@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-apps/static/css/main.6a61b3fa.chunk.css",
+    "main.js": "/react-apps/static/js/main.32ded309.chunk.js",
+    "main.js.map": "/react-apps/static/js/main.32ded309.chunk.js.map",
+    "runtime-main.js": "/react-apps/static/js/runtime-main.f89b3141.js",
+    "runtime-main.js.map": "/react-apps/static/js/runtime-main.f89b3141.js.map",
+    "static/css/2.0624914a.chunk.css": "/react-apps/static/css/2.0624914a.chunk.css",
+    "static/js/2.991dd4ce.chunk.js": "/react-apps/static/js/2.991dd4ce.chunk.js",
+    "static/js/2.991dd4ce.chunk.js.map": "/react-apps/static/js/2.991dd4ce.chunk.js.map",
+    "index.html": "/react-apps/index.html",
+    "precache-manifest.c03a84d188132808c3c0b1fbb077a7f8.js": "/react-apps/precache-manifest.c03a84d188132808c3c0b1fbb077a7f8.js",
+    "service-worker.js": "/react-apps/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/react-apps/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.6a61b3fa.chunk.css.map": "/react-apps/static/css/main.6a61b3fa.chunk.css.map",
+    "static/media/WeatherCss.css": "/react-apps/static/media/bg.b6796c73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f89b3141.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.991dd4ce.chunk.js",
+    "static/css/main.6a61b3fa.chunk.css",
+    "static/js/main.32ded309.chunk.js"
+  ]
+}
